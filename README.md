@@ -16,20 +16,20 @@ Research and solution sets for the final step of the Neon District puzzle.
 
 ### Colors
 
-|hexadecimal|color|
-|-----------|-----|
-|#335533|dark-green|
-|#884466|magenta|
-|#668844|light-green|
-|#446688|blue|
+|enumeration|hexadecimal|color|
+|-----------|-----------|-----|
+|A|#335533|dark-green|
+|B|#884466|magenta|
+|C|#668844|light-green|
+|D|#446688|blue|
 
 ### Sizes
 
-|stroke width|
-|----|
-|5|
-|10|
-|15|
-|20|
+|enumeration|stroke width|
+|-|-|
+|A|5|
+|B|10|
+|C|15|
+|D|20|
 
 ## Notes
