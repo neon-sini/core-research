@@ -23,4 +23,13 @@ Research and solution sets for the final step of the Neon District puzzle.
 |#668844|light-green|
 |#446688|blue|
 
+### Sizes
+
+|stroke width|
+|----|
+|5|
+|10|
+|15|
+|20|
+
 ## Notes
