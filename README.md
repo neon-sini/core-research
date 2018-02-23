@@ -27,9 +27,9 @@ Research and solution sets for the final step of the Neon District puzzle.
 
 |enumeration|stroke width|
 |-|-|
-|A|5|
-|B|10|
-|C|15|
-|D|20|
+|E|5|
+|F|10|
+|G|15|
+|H|20|
 
 ## Notes
