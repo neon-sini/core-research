@@ -19,9 +19,25 @@ Research and solution sets for the final step of the Neon District puzzle.
 - The rings of the puzzle are encoded outward from the center. 
 - The first segment of a n-th ring is rotated clockwise by `(n * 2 * pi/16)`.
 
-## Segments
+### Sizes
 
-### Dunno
+|enumeration|stroke width|
+|-|-|
+|A|5|
+|B|10|
+|C|15|
+|D|20|
+
+### Colors
+
+|enumeration|hexadecimal|color|
+|-----------|-----------|-----|
+|A|#335533|dark-green|
+|B|#446688|blue|
+|C|#884466|magenta|
+|D|#668844|light-green|
+
+## Tracks
 
 |Track|0|1|2|3|
 |-|-|-|-|-|
@@ -41,24 +57,5 @@ Research and solution sets for the final step of the Neon District puzzle.
 |D|DD|AD|DB|DB|
 |E|BC|BB|CC|BD|
 |F|CA|CB|AC|CA|
-
-
-### Colors
-
-|enumeration|hexadecimal|color|
-|-----------|-----------|-----|
-|A|#335533|dark-green|
-|B|#446688|blue|
-|C|#884466|magenta|
-|D|#668844|light-green|
-
-### Sizes
-
-|enumeration|stroke width|
-|-|-|
-|A|5|
-|B|10|
-|C|15|
-|D|20|
 
 ## Notes
