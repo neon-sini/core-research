@@ -57,5 +57,3 @@ Research and solution sets for the final step of the Neon District puzzle.
 |D|DD|AD|DB|DB|
 |E|BC|BB|CC|BD|
 |F|CA|CB|AC|CA|
-
-## Notes
